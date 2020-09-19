@@ -10,7 +10,6 @@ The purpose is to build an index of examples that can be utilized by others as a
 - [Experiments Master List](#experiments-master-list)
     - [Introduction](#introduction)
     - [WebDevelopment](#webdevelopment)
-        - [Fetching API Endpoints](./WebDevelopment/FetchingAPIEndpoints/README.md)
 
 <!-- /TOC -->
 
