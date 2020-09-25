@@ -6,11 +6,14 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "launchctl load /usr/local/cellar/nginx/1.19.2/homebrew.mxcl.nginx.plist",
-    "stop": "launchctl unload /usr/local/cellar/nginx/1.19.2/homebrew.mxcl.nginx.plist"
+    "stop": "launchctl unload /usr/local/cellar/nginx/1.19.2/homebrew.mxcl.nginx.plist",
+    "build": "webpack"
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "lodash": "^4.17.20"
+  },
   "devDependencies": {
     "webpack": "^4.44.2",
     "webpack-cli": "^3.3.12"
